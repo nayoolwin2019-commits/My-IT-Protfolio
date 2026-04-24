@@ -1,4 +1,4 @@
-# My-IT-Protfolio
+# My-IT-Profolio
  A collection of my IT projects including Networking, SQL, Web Development, IOT Projects and Python script.
 # 🚀 Nay Oo Lwin | IT Technical Portfolio
 Welcome to my repository. This collection showcases the technical skills and projects I developed during my HND in Computing and ongoing B.Sc. in Computer Science studies.
