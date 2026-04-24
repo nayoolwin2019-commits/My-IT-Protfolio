@@ -1,12 +1,12 @@
-# My-IT-Portfolio
- A collection of my IT projects including Networking, SQL, Web Development, IOT Projects and Python script.
+
+ A collection of my IT projects including Networking, SQL, Web Development, IOT Projects, 3D design, Python and Javascript.
 # Nay Oo Lwin | IT Technical Portfolio
-Welcome to my profolio. This collection showcases the technical skills and projects I developed during my HND in Computing and ongoing B.Sc. in Computer Science studies.
+Welcome to my portfolio. This collection showcases the technical skills and projects I developed during my HND in Computing and ongoing B.Sc. in Computer Science studies.
 
 ---
 
 ##  1. Database Management (SQL)
-Relational database design and query execution. This example demonstrates creating an employee record and retrieving data accurately.
+Relational database design and query execution. This example demonstrates creating an employee record and retrieving data accurately. Experience in designing relational schemas and writing complex SQL queries including JOINs and data manipulation.
 
 * **Project:** Employee Database Management
 * **Key Skills:** Table Creation, Data Insertion, Data Retrieval (SELECT queries).
@@ -16,7 +16,7 @@ Relational database design and query execution. This example demonstrates creati
 ---
 
 ##  2. Networking (Cisco Infrastructure Design)
-Designed a scalable office network topology with centralized server access using Draw.io.
+Designed a scalable office network topology with centralized server access using Draw.io. Designed a scalable local area network (LAN) with server-client architecture. 
 ![Networking Setup](Networking-project.png)
 
 ---
@@ -83,8 +83,11 @@ Tinkercad 3D designs for product prototyping and visual branding.
 ## 📫 Contact Me
 * **Name:** Nay Oo Lwin
 * **Role:** Junior IT Specialist
-* **Mail:** nayoolwin021@gmail.com
+* **Mail:** [nayoolwin021@gmail.com]
+  (mailto:nayoolwin021@gmail.com)
 * **Phone** +6627289572
 * **Location:** Bangkok, Thailand
+* **LinkedIn:** [Nay Oo Lwin] (https://www.linkedin.com/in/nay-oo-lwin-01a004391)
+  
   
 
