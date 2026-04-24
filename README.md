@@ -1,35 +1,86 @@
 # My-IT-Protfolio
  A collection of my IT projects including Networking, SQL, Web Development, IOT Projects and Python script.
-# Nay Oo Lwin | IT Technical Portfolio
-
+# 🚀 Nay Oo Lwin | IT Technical Portfolio
 Welcome to my repository. This collection showcases the technical skills and projects I developed during my HND in Computing and ongoing B.Sc. in Computer Science studies.
 
-## 🛠 Featured Projects
+---
 
-### 1. Networking (Cisco Packet Tracer)
-- **Concept:** Corporate Network Topology with VLAN & DHCP.
-- **Goal:** Design a scalable and secure local area network (LAN).
-- *(See my PDF portfolio for the topology diagrams)*
+## 📊 1. Database Management (SQL)
+Relational database design and query execution. This example demonstrates creating an employee record and retrieving data accurately.
 
-### 2. Web Development
-- **File:** `index.html`
-- **Tech:** HTML5, CSS3.
-- **Highlight:** Responsive profile card with modern UI design.
+* **Project:** Employee Database Management
+* **Key Skills:** Table Creation, Data Insertion, Data Retrieval (SELECT queries).
 
-### 3. Python Programming
-- **File:** `skills_inventory.py`
-- **Tech:** Python 3.
-- **Highlight:** Demonstrates data structure (Dictionary) management and functional programming.
-
-### 4. Database Management
-- **File:** `database.sql`
-- **Tech:** SQL (PostgreSQL/MySQL compatible).
-- **Highlight:** Relational database schema with optimized queries.
-
-## 📡 Specialized Skills
-- **IoT:** Hardware simulation using Arduino & Tinkercad.
-- **Technical Research:** Structured IT documentation and analytical reporting.
-- **UX Design:** Currently pursuing Google UX Design Professional Certificate.
+![SQL Query Result](SQLResult_ss.png)
 
 ---
-**Connect with me:** [nayoolwin021@gmail.com](mailto:nayoolwin021@gmail.com)
+
+## 🌐 2. Networking (Cisco Infrastructure Design)
+Designed a scalable office network topology with centralized server access using Draw.io.
+![Networking Setup](Networking-project.png)
+
+---
+
+## ⌨️ 3. JavaScript & Web Development
+Implementing functional logic and dynamic user interfaces.
+<table>
+  <tr>
+    <td><b>Interface Design</b></td>
+    <td><b>JS Logic & Testing</b></td>
+  </tr>
+  <tr>
+    <td><img src="Websit_ss1.png" width="400"></td>
+    <td><img src="Website_ss.png" width="400"></td>
+    <td><img src="javascript-ss.png" width="400"></td>
+  </tr>
+</table>
+
+---
+
+## 🤖 4. IoT & Smart Systems (Tinkercad)
+Hardware simulations for automation and safety using Arduino and various sensors.
+
+### 🛠️ Project Portfolio & Wiring
+<table>
+  <tr>
+    <th>System Type</th>
+    <th>Wiring Setup</th>
+    <th>Programming Logic</th>
+  </tr>
+  <tr>
+    <td><b>Gas Leakage Detector</b></td>
+    <td><img src="iot-gas-wire.png" width="350"></td>
+    <td><img src="iot-gas-code.png" width="350"></td>
+  </tr>
+  <tr>
+    <td><b>Ultrasonic Door Buzzer</b></td>
+    <td><img src="iot-ultrasonic-wire.png" width="350"></td>
+    <td><img src="iot-ultrasonic-code.png" width="350"></td>
+  </tr>
+  <tr>
+    <td><b>Pet Motion Alarm</b></td>
+    <td><img src="iot-motion-wire.png" width="350"></td>
+    <td><img src="iot-motion-code.png" width="350"></td>
+  </tr>
+</table>
+
+---
+
+## 🎨 5. 3D Modeling & Creative Assets
+Tinkercad 3D designs for product prototyping and visual branding.
+
+<table>
+  <tr>
+    <td><img src="3d-design-1.png" width="280"></td>
+    <td><img src="3d-design-2.png" width="280"></td>
+    <td><img src="3d-design-3.png" width="280"></td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contact Me
+* **Name:** Nay Oo Lwin
+* **Role:** Junior IT Specialist
+* **Location:** Bangkok, Thailand
+
