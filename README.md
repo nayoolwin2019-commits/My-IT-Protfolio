@@ -1,11 +1,11 @@
 # My-IT-Profolio
  A collection of my IT projects including Networking, SQL, Web Development, IOT Projects and Python script.
-# 🚀 Nay Oo Lwin | IT Technical Portfolio
-Welcome to my repository. This collection showcases the technical skills and projects I developed during my HND in Computing and ongoing B.Sc. in Computer Science studies.
+# Nay Oo Lwin | IT Technical Porfolio
+Welcome to my profolio. This collection showcases the technical skills and projects I developed during my HND in Computing and ongoing B.Sc. in Computer Science studies.
 
 ---
 
-## 📊 1. Database Management (SQL)
+##  1. Database Management (SQL)
 Relational database design and query execution. This example demonstrates creating an employee record and retrieving data accurately.
 
 * **Project:** Employee Database Management
@@ -15,7 +15,7 @@ Relational database design and query execution. This example demonstrates creati
 
 ---
 
-## 🌐 2. Networking (Cisco Infrastructure Design)
+##  2. Networking (Cisco Infrastructure Design)
 Designed a scalable office network topology with centralized server access using Draw.io.
 ![Networking Setup](Networking-project.png)
 
@@ -83,5 +83,8 @@ Tinkercad 3D designs for product prototyping and visual branding.
 ## 📫 Contact Me
 * **Name:** Nay Oo Lwin
 * **Role:** Junior IT Specialist
+* **Mail:** nayoolwin021@gmail.com
+* **Phone** +6627289572
 * **Location:** Bangkok, Thailand
+  
 
