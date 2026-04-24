@@ -30,9 +30,9 @@ Implementing functional logic and dynamic user interfaces.
     <td><b>JS Logic & Testing</b></td>
   </tr>
   <tr>
-    <td><img src="Websit_ss.png" width="400"></td>
-    <td><img src="Website_ss1.png" width="400"></td>
-    <td><img src="javascript-ss.png" width="400"></td>
+    <td><img src="Website_ss.png" width="400"></td>
+    <td><img src="Websit_ss1.png" width="400"></td>
+    <td><img src="Javascript-ss.png" width="400"></td>
   </tr>
 </table>
 
@@ -50,18 +50,18 @@ Hardware simulations for automation and safety using Arduino and various sensors
   </tr>
   <tr>
     <td><b>Gas Leakage Detector</b></td>
-    <td><img src="iot-gas-wire.png" width="350"></td>
-    <td><img src="iot-gas-code.png" width="350"></td>
+    <td><img src="iot-gas-wire.PNG" width="350"></td>
+    <td><img src="iot-gas-code.PNG" width="350"></td>
   </tr>
   <tr>
     <td><b>Ultrasonic Door Buzzer</b></td>
-    <td><img src="iot-ultrasonic-wire.png" width="350"></td>
-    <td><img src="iot-ultrasonic-code.png" width="350"></td>
+    <td><img src="iot-ultrasonic-wire.PNG" width="350"></td>
+    <td><img src="iot-ultrasonic-code.PNG" width="350"></td>
   </tr>
   <tr>
     <td><b>Pet Motion Alarm</b></td>
-    <td><img src="iot-motion-wire.png" width="350"></td>
-    <td><img src="iot-motion-code.png" width="350"></td>
+    <td><img src="iot-motion-wire.PNG" width="350"></td>
+    <td><img src="iot-motion-code.PNG" width="350"></td>
   </tr>
 </table>
 
@@ -72,9 +72,9 @@ Tinkercad 3D designs for product prototyping and visual branding.
 
 <table>
   <tr>
-    <td><img src="3d-design-1.png" width="280"></td>
-    <td><img src="3d-design-2.png" width="280"></td>
-    <td><img src="3d-design-3.png" width="280"></td>
+    <td><img src="3d-design-1.PNG" width="280"></td>
+    <td><img src="3d-design-2.PNG" width="280"></td>
+    <td><img src="3d-design-3.PNG" width="280"></td>
   </tr>
 </table>
 
