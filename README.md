@@ -1,28 +1,66 @@
+# Nay Oo Lwin | Junior IT Specialist  
+**Available for Immediate Employment**
 
- A collection of my IT projects including Networking, SQL, Web Development, IOT Projects, 3D design, Python and Javascript.
-# Nay Oo Lwin | IT Technical Portfolio
-Welcome to my portfolio. This collection showcases the technical skills and projects I developed during my HND in Computing and ongoing B.Sc. in Computer Science studies.
+A collection of my IT projects covering Networking, SQL, Web Development, IoT Systems, 3D Design, Python, and JavaScript.
+
+---
+
+##  About Me
+Motivated Junior IT Specialist with hands-on experience in networking, database management, and IoT systems. Skilled in building practical projects using SQL, JavaScript, and Arduino-based technologies.  
+
+Currently pursuing a B.Sc. in Computer Science, I am seeking an entry-level IT position where I can contribute, learn, and grow professionally.
 
 ---
 
 ##  1. Database Management (SQL)
-Relational database design and query execution. This example demonstrates creating an employee record and retrieving data accurately. Experience in designing relational schemas and writing complex SQL queries including JOINs and data manipulation.
+Designed and implemented relational databases with efficient data handling and query execution.
 
-* **Project:** Employee Database Management
-* **Key Skills:** Table Creation, Data Insertion, Data Retrieval (SELECT queries).
+### Project: Employee Database Management
+- Created structured relational tables  
+- Inserted and managed employee records  
+- Retrieved and filtered data using SQL queries  
+
+### Key Skills
+- SQL (DDL, DML)  
+- Data Retrieval (SELECT, WHERE, ORDER BY)  
+- Query Optimization  
+- Basic JOIN operations  
 
 ![SQL Query Result](SQLResult_ss.png)
 
 ---
 
 ##  2. Networking (Cisco Infrastructure Design)
-Designed a scalable office network topology with centralized server access using Draw.io. Designed a scalable local area network (LAN) with server-client architecture. 
+Designed a scalable Local Area Network (LAN) using a client-server architecture.
+
+### Project Overview
+- Configured Router, Switch, Server, and Client PC  
+- Implemented IP addressing (192.168.1.x subnet)  
+- Designed a centralized server-based network  
+
+### Key Concepts
+- Network Topology (Star Topology)  
+- IP Addressing  
+- Router as Gateway (192.168.1.1)  
+- Device communication within LAN  
+
 ![Networking Setup](Networking-project.png)
 
 ---
 
-## ⌨️ 3. JavaScript & Web Development
-Implementing functional logic and dynamic user interfaces.
+##  3. JavaScript & Web Development
+Developed responsive and interactive web interfaces using modern web technologies.
+
+### 🔹 Features
+- Dynamic UI updates using DOM manipulation  
+- Form validation for user input  
+- Responsive layout design  
+
+### 🔹 Technologies
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+
 <table>
   <tr>
     <td><b>Interface Design</b></td>
@@ -38,10 +76,29 @@ Implementing functional logic and dynamic user interfaces.
 
 ---
 
-## 🤖 4. IoT & Smart Systems (Tinkercad)
-Hardware simulations for automation and safety using Arduino and various sensors.
+##  4. IoT & Smart Systems (Arduino / Tinkercad)
+Developed smart automation systems using Arduino and sensor integration.
 
-### 🛠️ Project Portfolio & Wiring
+### Projects
+
+#### Gas Leakage Detector
+- Detects gas levels using a sensor  
+- Triggers buzzer alert when threshold is exceeded  
+
+#### Ultrasonic Door Buzzer
+- Measures distance using ultrasonic sensor  
+- Activates buzzer when object is nearby  
+
+#### Pet Motion Alarm
+- Uses PIR sensor to detect motion  
+- Triggers alert system when movement is detected  
+
+### Key Skills
+- Arduino Programming  
+- Sensor Integration  
+- Circuit Design  
+- Real-time Monitoring  
+
 <table>
   <tr>
     <th>System Type</th>
@@ -68,7 +125,11 @@ Hardware simulations for automation and safety using Arduino and various sensors
 ---
 
 ## 🎨 5. 3D Modeling & Creative Assets
-Tinkercad 3D designs for product prototyping and visual branding.
+Designed 3D models using Tinkercad for prototyping and visual concepts.
+
+- Product prototype designs  
+- Creative visual assets  
+- Basic 3D modeling concepts  
 
 <table>
   <tr>
@@ -81,13 +142,11 @@ Tinkercad 3D designs for product prototyping and visual branding.
 ---
 
 ## 📫 Contact Me
-* **Name:** Nay Oo Lwin
-* **Role:** Junior IT Specialist
-* **Mail:** [nayoolwin021@gmail.com]
-  (mailto:nayoolwin021@gmail.com)
-* **Phone** +6627289572
-* **Location:** Bangkok, Thailand
-* **LinkedIn:** [Nay Oo Lwin] (https://www.linkedin.com/in/nay-oo-lwin-01a004391)
-  
-  
+- **Name:** Nay Oo Lwin  
+- **Role:** Junior IT Specialist  
+- **Email:** nayoolwin021@gmail.com  
+- **Phone:** +66 27289572  
+- **Location:** Bangkok, Thailand  
+- **LinkedIn:** https://www.linkedin.com/in/nay-oo-lwin-01a004391  
 
+---
