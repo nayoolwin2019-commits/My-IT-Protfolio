@@ -26,11 +26,12 @@ Implementing functional logic and dynamic user interfaces.
 <table>
   <tr>
     <td><b>Interface Design</b></td>
+    <td><b>Interface Design</b></td>
     <td><b>JS Logic & Testing</b></td>
   </tr>
   <tr>
-    <td><img src="Websit_ss1.png" width="400"></td>
-    <td><img src="Website_ss.png" width="400"></td>
+    <td><img src="Websit_ss.png" width="400"></td>
+    <td><img src="Website_ss1.png" width="400"></td>
     <td><img src="javascript-ss.png" width="400"></td>
   </tr>
 </table>
